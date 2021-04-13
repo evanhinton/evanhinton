@@ -21,7 +21,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-![Image](Evan_picture.jpg)
+![Image](https://raw.githubusercontent.com/evanhinton/evanhinton/gh-pages/Evan_picture.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
