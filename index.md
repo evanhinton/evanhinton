@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Data Analyst/Scientist
 
 Hello!  My name is Evan Walker.  I am a graduate of the University of Toronto with a physics specialist degree with a passion for data.  
 
